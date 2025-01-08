@@ -64,15 +64,19 @@ M - среднее
 $$
 \overline{X} = \frac{\sum_{i = 1}^n{X}}{n}
 $$
+
 $$
 M_{x+c} = M_{x}+C
 $$(1)
+
 доказательство:
+
 $$
 M_{x+c} = \frac{\sum_{i = 1}^n{(X+C)}}{n} = 
     \frac{\sum_{i = 1}^n{X} + \sum_{i = 1}^n{C}}{n} =
     \frac{\sum_{i = 1}^n{X} + n C}{n}
 $$
+
 $$
 = \frac{\sum_{i = 1}^n{X}}{n}  + C = M_x+C
 $$
